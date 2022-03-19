@@ -1,0 +1,52 @@
+div{
+    background-color: #EEEEEE;
+}
+
+.top-container{
+    background-color: #8dfdfdec;
+}
+
+.bottom-container{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+ 
+
+}
+.middle-container{
+    background-color:blueviolet;
+    width: 200px;
+    height: 200px;
+ 
+}
+
+.test1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1135px;
+    left: 200px;
+
+}
+
+
+.test2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1035px;
+    left: 100px;
+   
+}
+
+.test3{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+  
+
+}
